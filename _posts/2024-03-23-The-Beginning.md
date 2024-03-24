@@ -15,7 +15,7 @@ Couple of things about how my life has been until now:
 I am in my 1st year of college (Grinnell College).  
 
 I have been a little bit indecisive between pursuing a AI career and bank (but skewing towards AI).
-Currently, I have secured an internship in BTG Pactual, which is an investemnt bank in Brazil, but I feel like I should have applied to research roles. I was drawn to fintech last semester, but I feel like my true passion or motivation lies is AI/ML.  
+Currently, I have secured an internship in BTG Pactual, which is an investment bank in Brazil, but I feel like I should have applied to research roles. I was drawn to fintech last semester, but I feel like my true passion or motivation lies is AI/ML.  
 
 Especially, I want to become a scientist who investigates Artificial Super Intelligence (ASI) and some deep learning / neuroscience. This is actually a little different from being a Data Scientist. I probably will need at least Masters.  
 
