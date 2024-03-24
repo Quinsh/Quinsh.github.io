@@ -111,7 +111,7 @@ author:
   email            : "quinshh@gmail.com"
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/gunwook/"
     - label: "Email [quinshh@gmail]"
       icon: "fas fa-fw fa-envelope-square"
