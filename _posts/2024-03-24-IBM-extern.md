@@ -10,7 +10,7 @@ toc: true # (to display table of content)
 # search: false (if you don't want this blog to be searched from the search bar)
 ---
 
-<img src="/images/2024-03-24/ibm.jpg" alt="IBM Externship Image">
+<img src="/images/2024-03-24/ibmn.jpg" alt="IBM Externship Image">
 <span style="display: block; text-align: center; font-style: italic;">IBM San Francisco office</span>
 
 
