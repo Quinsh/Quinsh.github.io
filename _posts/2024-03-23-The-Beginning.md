@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "The Beginning"
-categories: Diary
+title: "As I Begin This"
+categories: Diary&Life
 tags: [life, plans]
 ---
 
-# As I Begin This
+# So...
 
 Hi! I have been writing in different platforms.
 But now I will totally move to Github Blog.  
