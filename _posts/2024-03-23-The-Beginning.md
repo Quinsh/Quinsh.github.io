@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "The Beginning"
-categories: Diary & Life
+categories: Diary
 tags: [life, plans]
 ---
 
