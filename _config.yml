@@ -110,6 +110,9 @@ author:
   location         : "Grinnell, IA"
   email            : "quinshh@gmail.com"
   links:
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/gunwook/"
     - label: "Email [quinshh@gmail]"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:quinshh@email.com"
