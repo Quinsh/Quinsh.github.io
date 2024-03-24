@@ -110,9 +110,9 @@ author:
   location         : "Grinnell, IA"
   email            : "quinshh@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email [quinshh@gmail]"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:quinshh@email.com"
+      # url: "mailto:quinshh@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
