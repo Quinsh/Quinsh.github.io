@@ -10,7 +10,7 @@ toc: true # (to display table of content)
 # search: false (if you don't want this blog to be searched from the search bar)
 ---
 
-<img src="../images/2024-03-24/ibm.jpg" alt="IBM Externship Image">
+<img src="/images/2024-03-24/ibm.jpg" alt="IBM Externship Image">
 <span style="display: block; text-align: center; font-style: italic;">IBM San Francisco office</span>
 
 
@@ -21,7 +21,7 @@ It was about 4 days during the Spring break. I visited California for the first 
 
 It was a very cool experience that brought a lot of meaning to me. It greatly influenced my thoughts and habits.
 
-<img src="../images/2024-03-24/giphy.gif" alt="IBM Externship Image">
+<img src="/images/2024-03-24/giphy.gif" alt="IBM Externship Image">
 
 # Reflecition
 
@@ -43,5 +43,7 @@ The korean (and asian) mindset of relentlessly pursuing the top, questioning if 
 
 Also, I felt that my host and also other Stanford students are organized and focused on what they do (at least more than I am). I felt the need to **block any external noises that distract me from my goal**.
 
-Finally, "be nice". As toxic mindsets do not last long. 
+Finally, **"be nice"**. As toxic mindsets do not last long. 
 
+<img src="/images/2024-03-24/me.jpg" alt="image of me">
+<span style="display: block; text-align: center; font-style: italic;">me eating empanadas in Ferry Building, San Francisco</span>
