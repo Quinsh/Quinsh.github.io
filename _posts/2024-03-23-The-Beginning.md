@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Beginning"
+categories: Diary & Life
+tags: [life, plans]
 ---
 
 # As I Begin This
