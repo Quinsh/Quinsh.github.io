@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Quinsh's Dev & Life Blog"
-title_separator          : "|"
-subtitle                 : "everything about me" # site tagline that appears below site title in masthead
+title_separator          : "|" 
+subtitle                 : "Gun Woo's Blog" # site tagline that appears below site title in masthead
 name                     : "Gun Woo (Eric) Kim"
 description              : "I try to make this not only be technical but personal as well"
 url                      : "https://Quinsh.github.io"
